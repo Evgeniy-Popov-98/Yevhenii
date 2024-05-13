@@ -1,4 +1,3 @@
-# Yevhenii
 
 <p align="center"><a href="https://anuraghazra.github.io"><img style="border-radius: 20px" width="80%" alt="I`m Yevhenii and I'm open for work!" src="./assets/title-image.png" /></a></p>
 
